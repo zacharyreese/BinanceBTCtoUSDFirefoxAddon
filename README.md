@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # Binance Spot Wallet BTC value to USD Firefox Addon
 This is a Firefox addon that converts cryptocurrency asset value from BTC value to USD value in the Binance Spot Wallet
 
